@@ -1,7 +1,6 @@
-# F012_tour
-F012 百度地图+vue+flask+爬虫 推荐算法旅游大数据可视化系统Echarts  mysql数据库 带沙箱支付+图像识别技术
+# F012 百度地图+vue+flask+爬虫 推荐算法旅游大数据可视化系统Echarts  mysql数据库 带沙箱支付+图像识别技术
 
-完整项目收费，可联系微信: maimaidashuju 注明从git来的，谢谢！
+完整项目收费，可联系微信: mmdsj186011 注明从git来的，谢谢！
 也可以关注我的B站： 麦麦大数据 https://space.bilibili.com/1583208775
 
 ## 视频介绍
